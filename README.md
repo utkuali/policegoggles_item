@@ -1,2 +1,3 @@
 # policegoggles
-Night vision and thermal vision for police job
+
+Usable items for night and thermal vision which can be whitelisted to desired jobs.
